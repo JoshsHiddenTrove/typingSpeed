@@ -66,3 +66,4 @@ class TypingGame:
 
 tg = TypingGame()
 tg.main()
+#change
